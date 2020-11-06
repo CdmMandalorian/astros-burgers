@@ -1,0 +1,48 @@
+body {
+
+    font-family: 'Iceberg', cursive;
+    background-image: url("/astros-burgers/public/assets/img/");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.jumbotron {
+    background-image: url("/astros-burgers/public/assets/img/");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    margin-top: 10px;
+}
+
+.jumbotron > h1 {
+    font-family: 'Geo', sans-serif;
+
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-override {
+    color: black;
+    text-align: left;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#lefthead {
+    background-color: #5cb85c;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: #f0ad4e;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}

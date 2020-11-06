@@ -1,0 +1,30 @@
+{
+  "name": "astros-burgers",
+  "version": "1.0.0",
+  "description": "Node Express Handlebars App to Eat and Create Burgers From Astros Burgers on Heroku",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdmMandalorian/astros-burgers.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Armando E Galindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CdmMandalorian/astros-burgers/issues"
+  },
+  "homepage": "https://github.com/CdmMandalorian/astros-burgers#readme"
+}

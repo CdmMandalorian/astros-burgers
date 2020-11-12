@@ -6,9 +6,7 @@ Universally Known
 2. [ Installation ](#install)
 3. [ Usage ](#usage)
 4. [ License ](#lic)
-5. [ Contributing ](#contrib)
-6. [ Tests ](#test)
-7. [ Questions ](#quest)
+5. [ Questions ](#quest)
     
 <a name="desc"></a>
 ## 1. Description
@@ -24,18 +22,10 @@ User can add burger from predertmined Burger list, and indicate to the programn 
     
 <a name="lic"></a>
 ## 4. License
-MIT
-    
-<a name="contrib"></a>
-## 5. Contributing
-
-    
-<a name="test"></a>
-## 6. Tests
-
+MIT   
     
 <a name="quest"></a>
-## 7. Questions
+## 5. Questions
 Please visit my GitHub to view all of my work:
 
 https://www.github.com/CdmMandalorian 
@@ -44,7 +34,6 @@ Contact me at: egalindounited@gmail.com
 
 ## LIVE LINK: 
 <a href="https://astros-burgers.herokuapp.com/">ASTROS BURGERS</a>
-
 
 
 ## Screenshots of ASTROS BURGERS:

@@ -6,13 +6,15 @@ body {
 }
 
 .jumbotron {
-    background-color: #7c8494;
-    background-image: url("public/img/dinnerburger.jpg");
+    background-image: url("/img/dinnerburger.jpg");
     background-repeat: no-repeat;
     background-position: right;
-    background-size: contain;
+    background-position-y: bottom;
+    background-size: 380px 300px;
     margin-top: 10px;
-    border: 5px ;
+    border-bottom: 5px outset #c44444;
+    border-right: 5px outset #c44444;
+    background-color: #7c8494;
 }
 
 .jumbotron > h1 {

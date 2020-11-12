@@ -1,4 +1,5 @@
 # ASTROS BURGERS
+Universally Known
 
 ## Table of Contents
 1. [ Description ](#desc)
@@ -42,7 +43,7 @@ https://www.github.com/CdmMandalorian
 Contact me at: egalindounited@gmail.com
 
 ## LIVE LINK: 
-<a href="">ASTROS BURGERS</a>
+<a href="https://astros-burgers.herokuapp.com/">ASTROS BURGERS</a>
 
 
 
@@ -65,7 +66,7 @@ CSS
 BootStrap      
 Google Fonts API                
 Javascript   
-JQuery
-MySql
-Node
-Express Handlebars     
+JQuery        
+MySql        
+Node      
+Express Handlebars         

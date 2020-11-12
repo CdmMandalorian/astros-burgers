@@ -1,13 +1,12 @@
 body {
 
     font-family: 'Iceberg', cursive;
-    background-image: url("/astros-burgers/public/assets/img/");
-    background-repeat: no-repeat;
-    background-position: right;
+    background-color: #041c2e !important;
+
 }
 
 .jumbotron {
-    background-image: url("/astros-burgers/public/assets/img/");
+    background-image: url("/public/img/dinnerburger.jpg");
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -29,6 +28,14 @@ body {
     font-family: 'Iceberg', cursive;
 }
 
+h1#color-override {
+    font-size: 50px;
+}
+
+p#color-override {
+    font-size: 75px;
+}
+
 #lefthead {
     background-color: #5cb85c;
     color: white;
@@ -45,4 +52,17 @@ body {
     color: white;
     text-align: center;
     font-size: 1.2em;
+}
+
+#stickFooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: 10px solid black;
+    margin-top: 30px;
+    padding: 15px;
+    background-color: rgb(171, 185, 199);
+    color: transparent;
 }

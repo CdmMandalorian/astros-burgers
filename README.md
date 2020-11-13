@@ -42,7 +42,7 @@ Contact me at: egalindounited@gmail.com
 <img src="./public/img/astrosburgersScreenshot(1).png">
 
 ## LIVE VIDEO GIF's OF ASTROS BURGERS:
-<img src="./public/img/">
+<img src="./public/img/astrosburgers.gif">
 
 
 ## Repository:  

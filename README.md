@@ -37,10 +37,13 @@ Contact me at: egalindounited@gmail.com
 
 
 ## Screenshots of ASTROS BURGERS:
-<img src="./">
-<img src="./">
-<img src="./">
-<img src="./">
+<img src="./public/img/astrosburgersLongviewScreenshot.png">
+<img src="./public/img/astrosburgersScreenshot.png">
+<img src="./public/img/astrosburgersScreenshot(1).png">
+
+## LIVE VIDEO GIF's OF ASTROS BURGERS:
+<img src="./public/img/">
+
 
 ## Repository:  
 [ASTROS BURGERS](https://github.com/CdmMandalorian/astros-burgers)  

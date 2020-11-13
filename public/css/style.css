@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     background-position: right;
     background-position-y: bottom;
-    background-size: 380px 300px;
+    background-size: 460px 280px;
     margin-top: 10px;
     border-bottom: 5px outset #c44444;
     border-right: 5px outset #c44444;
@@ -70,3 +70,12 @@ p#color-override {
     background-color: rgb(171, 185, 199);
     color: transparent;
 }
+
+/* 
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        
+        background-size: 310px 225px;
+    
+    }
+} */

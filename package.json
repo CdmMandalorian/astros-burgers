@@ -1,7 +1,7 @@
 {
   "name": "astros-burgers",
   "version": "1.0.0",
-  "description": "Node Express Handlebars App to Eat and Create Burgers From Astros Burgers on Heroku",
+  "description": "Node Express Handlebars App to Eat and Create Burgers From Astros Burgers",
   "main": "server.js",
   "dependencies": {
     "console.table": "^0.10.0",

@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "18.2x"
+    "node": "18.2"
   },
   "dependencies": {
     "console.table": "^0.10.0",
